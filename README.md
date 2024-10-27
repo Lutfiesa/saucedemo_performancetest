@@ -23,3 +23,6 @@ $env:K6_BROWSER_HEADLESS = "true";
 $Env:K6_WEB_DASHBOARD = "true"; 
 $env:K6_WEB_DASHBOARD_EXPORT="C:\Users\User\OneDrive\Dokumen\TestBVarta\Report\stresstest-report.html"; 
 k6 run .\saucedemo-stresstest.js
+
+
+Untuk hasil reportnya akan tersedia didalam folder Report.
