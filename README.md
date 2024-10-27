@@ -1,4 +1,4 @@
-Berikut adalah penjelasan terperinci untuk setiap skrip yang akan dijalankan dalam pengujian kinerja menggunakan K6 untuk aplikasi SauceDemo.
+Berikut adalah penjelasan untuk setiap skrip yang akan dijalankan dalam pengujian kinerja menggunakan K6 untuk aplikasi SauceDemo.
 
 1. Skrip: saucedemo-loadtest.js
 $env:K6_BROWSER_HEADLESS = "true"; 
